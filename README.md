@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kalashjainofficial/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kalashjainofficial/LEETCODE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kalashjainofficial/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/kalashjainofficial/LEETCODE/tree/master/0027-remove-element) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kalashjainofficial/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/kalashjainofficial/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kalashjainofficial/LEETCODE/tree/master/0503-next-greater-element-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kalashjainofficial/LEETCODE/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kalashjainofficial/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kalashjainofficial/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/kalashjainofficial/LEETCODE/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
