@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kalashjainofficial/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kalashjainofficial/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kalashjainofficial/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kalashjainofficial/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kalashjainofficial/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kalashjainofficial/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kalashjainofficial/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kalashjainofficial/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kalashjainofficial/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kalashjainofficial/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/kalashjainofficial/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/kalashjainofficial/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0207-course-schedule](https://github.com/kalashjainofficial/LEETCODE/tree/master/0207-course-schedule) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kalashjainofficial/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kalashjainofficial/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kalashjainofficial/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kalashjainofficial/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kalashjainofficial/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kalashjainofficial/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kalashjainofficial/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kalashjainofficial/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kalashjainofficial/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kalashjainofficial/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kalashjainofficial/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0207-course-schedule](https://github.com/kalashjainofficial/LEETCODE/tree/master/0207-course-schedule) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kalashjainofficial/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kalashjainofficial/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Graph Theory
 |  |
@@ -197,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kalashjainofficial/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kalashjainofficial/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Queue
 |  |
 | ------- |
