@@ -45,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kalashjainofficial/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/kalashjainofficial/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kalashjainofficial/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/kalashjainofficial/LEETCODE/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/kalashjainofficial/LEETCODE/tree/master/0735-asteroid-collision) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kalashjainofficial/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kalashjainofficial/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/kalashjainofficial/LEETCODE/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
