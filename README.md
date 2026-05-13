@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kalashjainofficial/LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kalashjainofficial/LEETCODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kalashjainofficial/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kalashjainofficial/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kalashjainofficial/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kalashjainofficial/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/kalashjainofficial/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kalashjainofficial/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kalashjainofficial/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kalashjainofficial/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/kalashjainofficial/LEETCODE/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
