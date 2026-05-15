@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kalashjainofficial/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kalashjainofficial/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kalashjainofficial/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0347-top-k-frequent-elements](https://github.com/kalashjainofficial/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/kalashjainofficial/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kalashjainofficial/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## String
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/kalashjainofficial/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kalashjainofficial/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kalashjainofficial/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/kalashjainofficial/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/kalashjainofficial/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kalashjainofficial/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/kalashjainofficial/LEETCODE/tree/master/0704-binary-search) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kalashjainofficial/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/kalashjainofficial/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kalashjainofficial/LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kalashjainofficial/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kalashjainofficial/LEETCODE/tree/master/0018-4sum) |
+| [0347-top-k-frequent-elements](https://github.com/kalashjainofficial/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -217,4 +221,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kalashjainofficial/LEETCODE/tree/master/0098-validate-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kalashjainofficial/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kalashjainofficial/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kalashjainofficial/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kalashjainofficial/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
