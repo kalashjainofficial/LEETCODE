@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kalashjainofficial/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kalashjainofficial/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/kalashjainofficial/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/kalashjainofficial/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/kalashjainofficial/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kalashjainofficial/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/kalashjainofficial/LEETCODE/tree/master/0704-binary-search) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kalashjainofficial/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0435-non-overlapping-intervals](https://github.com/kalashjainofficial/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kalashjainofficial/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/kalashjainofficial/LEETCODE/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/kalashjainofficial/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 ## Trie
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kalashjainofficial/LEETCODE/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/kalashjainofficial/LEETCODE/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/kalashjainofficial/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/kalashjainofficial/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
