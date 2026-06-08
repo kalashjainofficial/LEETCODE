@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/kalashjainofficial/LEETCODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kalashjainofficial/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kalashjainofficial/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/kalashjainofficial/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/kalashjainofficial/LEETCODE/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kalashjainofficial/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/kalashjainofficial/LEETCODE/tree/master/0134-gas-station) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kalashjainofficial/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/kalashjainofficial/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/kalashjainofficial/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 ## Math
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kalashjainofficial/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/kalashjainofficial/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/kalashjainofficial/LEETCODE/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/kalashjainofficial/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 ## Trie
